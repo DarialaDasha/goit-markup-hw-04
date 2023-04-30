@@ -454,7 +454,6 @@ body {
 }
 
 .portfolio-item {
-  display: block;
   width: calc((100% - 48px) / 3);
 }
 
